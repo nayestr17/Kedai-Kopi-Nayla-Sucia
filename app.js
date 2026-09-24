@@ -127,9 +127,9 @@ console.log("⭐ Total Poin : " + totalPoin);
 
 
 
-// ============================================================
+// ==============================================================
 // AKTIVITAS 4: Percabangan if-else — Penentuan Tier Membership
-// ============================================================
+// ==============================================================
 
 // TODO 4:
 // 1. Buat variabel "tierMember" dan "benefit" bertipe string kosong ("").
