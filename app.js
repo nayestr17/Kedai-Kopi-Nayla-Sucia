@@ -222,9 +222,9 @@ console.log("Tier:", tierC);
 
 
 
-// ============================================================
+// ========================================================
 // AKTIVITAS 6: Array & For Loop — Daftar Menu Rekomendasi
-// ============================================================
+// ========================================================
 
 // TODO 6A:
 // Buat variabel Array bernama "menuRekomendasi" yang berisi minimal 5 nama menu kopi/makanan.
